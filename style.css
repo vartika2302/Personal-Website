@@ -49,8 +49,9 @@ a{
 #img1{
     border-radius: 100%;
     margin-top: 25px;
-    width: 150px;
-    height: 150px;
+    width: 210px;
+    height: 210px;
+    object-fit: cover;
 }
 .skill1{
     border-radius: 100%;
